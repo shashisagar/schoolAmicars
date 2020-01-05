@@ -1,0 +1,8 @@
+/* Write your custom CSS here */
+.bg-color{
+    height:600px;
+    background-image: url('/assets/images/loginBg.jpg');
+    background-position: center center;
+}
+.login-box{background: #fff;padding: 15px;}
+.icon-percent::before { content: "%"; font-weight: bold; }
